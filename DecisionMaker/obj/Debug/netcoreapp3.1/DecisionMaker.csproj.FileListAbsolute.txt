@@ -1,0 +1,13 @@
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.exe
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.deps.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.runtimeconfig.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.runtimeconfig.dev.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.csprojAssemblyReference.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.AssemblyInfoInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.AssemblyInfo.cs
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.genruntimeconfig.cache

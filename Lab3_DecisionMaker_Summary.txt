@@ -1,0 +1,25 @@
+With if statements, you can cover multiple situations by either chaining them together, nesting if statements in each other, and/or using else-if statements. 
+
+For instance, let's say you had a program that simulates a die being rolled. 
+It's a similar idea to Lab 3, but we're simply removing the user input aspect, as the dice will randomly select a number. It can be a D4, D6, D10, D20, etc.
+Let's use a D10 for this. (1 to 10)
+
+In this example, we could be looking for situations where the die lands on a 1, 2, 3, ... 9, or 10 specifically.
+We can have a chain of if statements that each check if the output is equal to that number. if (x == 1) { Console.WriteLine("Rolled a 1.") } and so on.
+Chaining if statements works here since we don't need to worry about the other ifs being run since none of these really overlap.
+Using else-if statements works as well here, we'd have an if for 1, 2 through 5 would use an else-if, and then 6 would just require an else.
+
+if (x == 1) { Console.WriteLine("Rolled a 1.") }					if (x == 1) { Console.WriteLine("Rolled a 1.") }
+if (x == 2) { Console.WriteLine("Rolled a 2.") }					else if (x == 2) { Console.WriteLine("Rolled a 2.") }
+...											...
+if (x == 6) { Console.WriteLine("Rolled a 6.") }					else { Console.WriteLine("Rolled a 6.") }
+
+Now let's say we wanted to know if the die lands on an even number, and if it does, then we want to know if it landed on an 8 or greater. And if it was an odd number, we'd just ignore it.
+We don't want to use an if-else chain here because the first check matters whether or not we need to do the second. Because if we got a 9, it would be greater than 8, but it's NOT an even number.
+For this to work, we'd need a nested if loop, so that the "8 or greater" check occurs ONLY if the number rolled is even, as such below:
+
+if (x % 2 == 0) 
+{
+    if ( x >= 8 ) { Console.WriteLine("Rolled an even number that's 8 or higher.") }
+} 
+else { // Do something else, since it's odd and we don't want to check if it's 8 or higher. }
